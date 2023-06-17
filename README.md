@@ -1,3 +1,3 @@
 This is a simple recipe website built using HTML
 
-page link: VMadhuranga.github.io/odin-recipes
+page link: https://VMadhuranga.github.io/odin-recipes
