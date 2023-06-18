@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+    font-family: Verdana, sans-serif;
+    font-size: large;
+}
+
+.main {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.main, h2 {
+    color: maroon;
+}
